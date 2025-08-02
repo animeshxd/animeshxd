@@ -1,2 +1,2 @@
 Hi 👋
-[Checkout the discussion](https://github.com/animeshxd/animeshxd/discussions)
+https://github.com/animeshxd/animeshxd/discussions
